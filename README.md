@@ -78,3 +78,11 @@ Training may take considerable time depending on available hardware.
 ## Project Type
 
 Individual academic deep learning project.
+
+## Training Results
+
+### Training and Validation Accuracy
+![Training and Validation Accuracy](images/training_accuracy.png)
+
+### Training and Validation Loss
+![Training and Validation Loss](images/training_loss.png)
