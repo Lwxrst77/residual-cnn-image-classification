@@ -79,6 +79,18 @@ Training may take considerable time depending on available hardware.
 
 Individual academic deep learning project.
 
+## Confusion Matrix
+
+![Normalized Confusion Matrix](images/confusion_matrix.png)
+
+The normalized confusion matrix shows strong
+classification performance for automobiles (96%),
+ships (93%), and frogs (88%).
+
+The model experienced greater difficulty
+distinguishing visually similar categories,
+particularly cats and dogs.
+
 ## Training Results
 
 ### Training and Validation Accuracy
