@@ -91,6 +91,19 @@ The model experienced greater difficulty
 distinguishing visually similar categories,
 particularly cats and dogs.
 
+### Grad-CAM Visualization Examples
+
+![Grad-CAM Visualization Examples](images/gradcam_examples.png)
+
+The examples compare original CIFAR-10 images
+with Grad-CAM heatmaps for both correct and
+incorrect predictions.
+
+The highlighted regions help investigate which
+visual features influenced the model's
+classification decisions, including
+misclassifications such as truck versus
+automobile and frog versus bird.
 ## Training Results
 
 ### Training and Validation Accuracy
